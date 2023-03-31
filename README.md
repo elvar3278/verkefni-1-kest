@@ -30,3 +30,22 @@
 11. In Windows, the Notification & actions Settings window helps you manage your notifications and choose which apps can show notifications
 
 ## 11.1.3.4
+1. catigory
+2. network and internet. system and security. ease of acces
+3. there is no common problem for my pc
+4. allowed apps
+5. network and sharing
+6. Autoplay
+7. devices and printers
+8. Default Programs
+9. Programs and Features
+10. Turn Windows features on or off
+11. User Accounts
+12. Credential Manager
+13. Taskbar and Start Menu
+14. File Explorer Options
+15. Date and Time
+16. Region
+17. Date and Time
+18. Ease of Access Center
+19. Speech Recognition
