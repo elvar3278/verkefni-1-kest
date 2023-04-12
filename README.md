@@ -30,6 +30,28 @@
 11. In Windows, the Notification & actions Settings window helps you manage your notifications and choose which apps can show notifications
 
 ## 11.1.3.4
+1. The browser closes
+2. Options available when right-clicking a web browser in Task Manager include end task, switch to, and view details.
+3. It is stopped and running
+4. When right-clicking a service in Task Manager, options include starting, stopping, restarting, and viewing properties.
+5. Its about 2 to 5 percent
+6. About 1500
+7. 212
+8. 8000 megabytes
+9. 6300 megabytes
+10. about 50 percent or 3000 megabytes
+11. 80 megabytes
+12. Ethernet
+13. 192.168.5.73
+14. Clicking the Memory heading in Processes tab sorts processes by memory usage; clicking again reverses order.
+15. It adds a new column with memory usage percentages.
+16. It helps to identify processes that use a lot of memory and may cause performance issues.
+17. In the Processes tab of Task Manager, the listed processes are typically divided into categories such as Apps, Background processes, and Windows processes.
+18. Disconnect, Sign out, Send message, Remote assistance, Connect, End task, Go to procces
+19. Disable, Enable, Open file location, Search online, Properties
+20. The App history tab in Task Manager lists the historical resource usage of applications and processes, including CPU time, network usage, and metered network usage.
+21. End task, End process tree, End process tree (tree view), Set priority, Set affinity, Go to service(s), Search online, Properties
+22. An administrator can use Task Manager to troubleshoot and optimize system performance and resource usage.
 
 ## 11.4.3.11
 
