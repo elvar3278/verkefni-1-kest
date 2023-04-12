@@ -56,7 +56,11 @@
 19. Speech Recognition
 
 ## 11.2.2.3
-1. later looser
+1. Using a Standard user account keeps the computer safe, prevents mistakes, and gives the administrator more control.
+2. Keep Files, Delete Files
+3. So the computer is safer from hackers 
+4. Improves security and stability; limits potentially harmful actions.
+5. IT admin keeps files if important for future use or user requests it.
 
 ## 11.2.5.8
 1. 1920 mb
