@@ -139,6 +139,20 @@
 6. DIR
 
 ## 11.4.2.7
+1. users/Elvar
+2. folder3
+3. md
+4. users/Elvar/ITEfolder3/ITEfolder4
+5. users/Elvar/ITEfolder3/ITEfolder4/ITEfolder5
+6. del doc2
+7. del /Q /F .
+8. /E
+9. Speed and efficiency
+Automation
+Remote access
+Low resource usage
+More control over commands and tasks.
+
 
 
 
