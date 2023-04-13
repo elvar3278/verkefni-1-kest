@@ -58,7 +58,14 @@
 2. You can use ctrl + c and ctrl v
 4. Users\elvar\Desktop\folder1\folder2
 5. Downloads, pictures, doctuments, Desktop, videos, music, 3d objects
-6. 
+6. It would be pinned to the quick acces bar
+7. Sounds, movies and videos, xboxgames, windows, users, system, system 64
+8. Elvar, puplic, elvardavidsson9gmail.com
+9. I was able to open it yes, with my left click?
+10. no just Elvar
+11. Public users, Puplic videos, Puplic music, public documents, Public Downloads
+12. Camera roll, videos, saved pictures, music, properties, pictures
+13. Go to library tools and remove folder one
 
 ## 11.2.1.5
 1. catigory
