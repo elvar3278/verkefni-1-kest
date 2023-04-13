@@ -19,7 +19,7 @@
 ## 11.1.2.10
 1. Firefox, Google chrome, Roblox
 2.On the Desktop, you can put files, folders, and shortcuts that you want to access quickly. The Taskbar shows open programs, allows you to switch between them, and has shortcuts to commonly used programs.
-3. Xbox,firefox,skype,music,movies andtv
+3. Xbox,firefox,skype,music,movies and tv
 4. unpin from taskbar, rezise, turn live tile off
 5. Toolbars,search,show task weiw button
 6. You can add a new dekstop
@@ -101,7 +101,47 @@
 
 
 
-## share
+## 11.2.6.2
+1. It contains information about all the devices connected to your computer
+2. You would update drivers by clicking on it and then searching for drivers
+3. driver provider, driver date, driver version
+4. browse computer for drivers
+5. if your device could not use a new driver it just uses the old one
+6. driver details, disable device, uninstall device
+
+## 11.3.2.7
+
+## 11.3.2.8 
+1. Processors (Socket 1150)
+2. 16/17
+3. 32 gb
+4. hardware and resources
+5. Network/adaptors
+6. Network/adaptors
+7. startup program
+8. Normal startup, diagnostic startup, selective startup
+9. No that is not possible
+10. launch certain applications and force to end them etc
+11. Sends a report if something is wrong
+12. System info
+13. listed device, drivers, directx features
+14. device,drivers
+15. directInput devices and input related devices
+16. There could be some series consiqunses if you dont
+17. If your pc is slow or that there are some bugs
+
+## 11.4.1.5
+1. Gives more information
+2. type nul > filename.txt
+3. verify
+4. clear
+5. DIR
+6. DIR
+
+## 11.4.2.7
+
+
+
 ## 11.5.2.4
 1. DEKSTOP-8JR23IH
 2. DEKSTOP-CJBN5KL
