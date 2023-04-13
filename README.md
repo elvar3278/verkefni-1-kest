@@ -54,7 +54,11 @@
 22. An administrator can use Task Manager to troubleshoot and optimize system performance and resource usage.
 
 ## 11.4.3.11
-
+1. .txt
+2. You can use ctrl + c and ctrl v
+4. Users\elvar\Desktop\folder1\folder2
+5. Downloads, pictures, doctuments, Desktop, videos, music, 3d objects
+6. 
 
 ## 11.2.1.5
 1. catigory
