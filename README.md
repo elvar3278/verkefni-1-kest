@@ -159,4 +159,13 @@ More control over commands and tasks.
 ## 11.5.2.4
 1. DEKSTOP-8JR23IH
 2. DEKSTOP-CJBN5KL
-3.
+3. Yes
+4. no thats not possible
+5. Read
+6. Gave everyone full control
+7. yes
+8. I can delete it
+9. Yes
+
+## 11.5.6.2
+I could not complete this
